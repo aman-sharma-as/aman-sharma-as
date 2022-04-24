@@ -4,7 +4,7 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 Full Stack Developer, Data Analyst
 ----------------------------------
 
-I've been learning code for 6 years. During my 3rd year of Engineering course. I found my fullest interest in Full Stack Development and my honors course Big Data Analytics. I am forward to seeing myself in these fields and making good projects which can help us in daily life ease.
+I've been learning code for 6 years. During my 2nd year of Engineering course. I found my fullest interest in Full Stack Development and my honors course Big Data Analytics. I am forward to seeing myself in these fields and making good projects which can help us in daily life ease.
 
 * 🌍  I'm based in Uttar Pradesh, India
 * 🧠  I'm learning B.E. Honors in Big Data Analytics Certified with IBM
